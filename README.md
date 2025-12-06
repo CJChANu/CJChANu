@@ -53,4 +53,4 @@ I bring **4+ years** of hands-on experience across these disciplines, constantly
 * You will find my game prototypes, 3D asset libraries, and web dev projects below.
 </details>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CJChANu)](https://github.com/anuraghazr/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJChANu&show_icons=true&theme=dark)(https://github.com/CJChANu)
