@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name/Handle]
+# Hi there 👋, I'm Chanuka_*GameDesignCode*
 
 A multidisciplinary developer and 3D artist focused on creating immersive digital experiences and functional software solutions.
 
@@ -8,9 +8,9 @@ A multidisciplinary developer and 3D artist focused on creating immersive digita
 
 I specialize in the full lifecycle of digital creation, from concept to deployment.
 
-* **Game Development:** Experienced in [Mention 1-2 Engines, e.g., Unity/Unreal Engine] development, focusing on gameplay mechanics, performance, and interactive systems.
+* **Game Development:** Experienced in Unity & Unreal Engine development, focusing on gameplay mechanics, performance, and interactive systems.
 * **3D Design & Environment Art:** Dedicated to crafting detailed and realistic virtual worlds.
-    * **Skills:** 3D Modeling (Low-poly & High-poly), Texturing, UV Mapping, Lighting, and full 3D Environment creation.
+    * **Skills:** 3D Modeling Low-poly & High-poly, Texturing, UV Mapping, Lighting, and full 3D Environment creation.
 * **Artistic Foundation:** I have a strong background in traditional and digital art, focusing on detailed line arts and visual composition.
 
 ---
@@ -19,8 +19,8 @@ I specialize in the full lifecycle of digital creation, from concept to deployme
 
 My skills extend into broader development fields, bridging creativity with utility.
 
-* **Software Development:** Developing robust applications in [Mention 1-2 Languages, e.g., Python, C#] for various platforms.
-* **Web Development:** Building responsive and modern web interfaces using [Mention 1-2 Frameworks/Languages, e.g., React, HTML/CSS/JavaScript].
+* **Software Development:** Developing robust applications in Java, C# for various platforms.
+* **Web Development:** Building responsive and modern web interfaces using React, HTML, CSS & JavaScript.
 
 ---
 
@@ -28,8 +28,8 @@ My skills extend into broader development fields, bridging creativity with utili
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Game Dev** | [Engine 1], [Engine 2], [Language 1 (e.g., C#)] |
-| **3D Art** | [Modeling Software (e.g., Blender, Maya)], [Texturing Software (e.g., Substance Painter)], Photoshop |
+| **Game Dev** | Unity, Unreal Engine | C#, C++ |
+| **3D Art** | Modeling Software  Blender | Texturing Software Substance Painter, ZBrush, Photoshop, Krita & Clip Studio |
 | **Web/Software** | [Language/Framework 1], [Language/Framework 2], Git, [Database/Other Tool] |
 
 ---
